@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 -->
+https://ibb.co/28GKF47
 - 🔭 I’m currently working as Student
 - 🌱 I’m currently learning NLP 
 - 💬 Ask me about Programming
