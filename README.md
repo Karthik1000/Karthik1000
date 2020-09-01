@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-https://ibb.co/28GKF47
+[![Capture.jpg](https://i.postimg.cc/66b5h9f8/Capture.jpg)](https://postimg.cc/qgnTJHYr)
 - 🔭 I’m currently working as Student
 - 🌱 I’m currently learning NLP 
 - 💬 Ask me about Programming
