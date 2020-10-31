@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-[![Capture.jpg](https://i.postimg.cc/66b5h9f8/Capture.jpg)](https://postimg.cc/qgnTJHYr)
+![top-10-DS-projects](https://user-images.githubusercontent.com/38176926/97770027-c10da880-1b55-11eb-9d17-16b5ff825270.png)
+
 - 🔭 I’m currently working as Student
 - 🌱 I’m currently learning NLP 
 - 💬 Ask me about Programming
