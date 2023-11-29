@@ -7,7 +7,8 @@ Here are some ideas to get you started:
 -->
 ![top-10-DS-projects](https://user-images.githubusercontent.com/38176926/97770027-c10da880-1b55-11eb-9d17-16b5ff825270.png)
 
-- 🔭 I’m currently working as Software Developer
+- 🔭 I’m currently studying @Uppsala University as Data Engineering
+- 💻 Worked as Software Engineer
 - 💬 Ask me about Programming
 - 📫 How to reach me: yagnakarthik.v17@iiits.in or yagnakarthik100@gmail.com
 - ⚡ Fun fact: I love to play chess and badminton
