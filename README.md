@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying @Uppsala University as Data Engineering
 - 💻 Worked as Software Engineer
 - 💬 Ask me about Programming
-- 📫 How to reach me: yagnakarthik.v17@iiits.in or yagnakarthik100@gmail.com
+- 📫 How to reach me: yagna-karthik.vaka.3292@student.uu.se or yagnakarthik100@gmail.com
 - ⚡ Fun fact: I love to play chess and badminton
 
